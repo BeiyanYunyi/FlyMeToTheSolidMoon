@@ -2,7 +2,7 @@
   "name": "fly-me-to-the-solid-moon",
   "version": "1.0.0",
   "description": "SolidJS + Vite starter, with ESLint and prettier",
-  "packageManager": "pnpm@7.3.0",
+  "packageManager": "pnpm@7.4.1",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -12,9 +12,9 @@
   "devDependencies": {
     "@types/babel__core": "^7.1.19",
     "@types/node": "^18.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.27.1",
-    "@typescript-eslint/parser": "^5.27.1",
-    "eslint": "^8.18.0",
+    "@typescript-eslint/eslint-plugin": "^5.30.3",
+    "@typescript-eslint/parser": "^5.30.3",
+    "eslint": "^8.19.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.5.0",
@@ -28,6 +28,6 @@
     "vite-plugin-solid": "^2.2.6"
   },
   "dependencies": {
-    "solid-js": "^1.4.4"
+    "solid-js": "^1.4.5"
   }
 }
