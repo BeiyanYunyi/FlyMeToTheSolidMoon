@@ -11,9 +11,9 @@
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "@types/babel__core": "^7.1.19",
-    "@types/node": "^18.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.30.3",
-    "@typescript-eslint/parser": "^5.30.3",
+    "@types/node": "^18.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.30.4",
+    "@typescript-eslint/parser": "^5.30.4",
     "eslint": "^8.19.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
@@ -28,6 +28,6 @@
     "vite-plugin-solid": "^2.2.6"
   },
   "dependencies": {
-    "solid-js": "^1.4.5"
+    "solid-js": "^1.4.6"
   }
 }
