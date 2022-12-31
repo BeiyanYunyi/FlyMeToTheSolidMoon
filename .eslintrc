@@ -4,9 +4,10 @@
     "airbnb-typescript",
     "prettier",
     "plugin:solid/recommended",
-    "plugin:import/typescript"
+    "plugin:import/typescript",
+    "plugin:jsx-a11y/recommended"
   ],
-  "plugins": ["@typescript-eslint", "prettier", "solid"],
+  "plugins": ["@typescript-eslint", "prettier", "solid", "jsx-a11y"],
   "env": {
     // 你的环境变量（包含多个预定义的全局变量）
     //

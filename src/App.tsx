@@ -9,7 +9,7 @@ const App: Component = () => (
   <div>
     <div class="logo">
       <a href="https://www.solidjs.com" target="_blank" rel="noreferrer">
-        <img src={favicon} />
+        <img src={favicon} alt="Solid Icon" />
       </a>
     </div>
     <h1 class="text-4xl text-center select-none">Hello Vite + Solid</h1>
