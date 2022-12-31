@@ -1,6 +1,6 @@
 # Fly me to the solid Moon
 
-SolidJS + Vite starter, with ESLint and prettier.
+SolidJS + Vite starter, with ESLint, prettier and unocss.
 
 ## Usage
 
